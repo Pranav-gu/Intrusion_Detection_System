@@ -1,0 +1,23 @@
+05-04-25 22:21:57 — Sequential Port Scanning — 10.1.129.119 — 1000, 1001, 1002, 1003 — 1s
+05-04-25 22:24:00 — Sequential Port Scanning — 10.1.129.119 — 1000, 1001, 1002, 1003 — 1s
+05-04-25 22:35:44 — Multiple Port Scanning — 10.1.129.119 — 22, 53, 80, 443, 3306, 8000 — 4s
+05-04-25 22:47:25 — Multiple Port Scanning — 10.1.129.119 — 22, 53, 80, 443, 3306, 5000 — 4s
+05-04-25 22:58:57 — Multiple Port Scanning — 10.0.0.100 — 22, 53, 80, 443, 3306, 5000 — 4s
+05-04-25 23:00:11 — Sequential Port Scanning — 10.0.0.201 — 80, 81, 82, 83 — 1s
+05-04-25 23:00:13 — Multiple Port Scanning — 10.0.0.200 — 22, 53, 80, 443, 3306, 5000 — 8s
+05-04-25 23:03:10 — Multiple Port Scanning — 10.0.0.150 — 22, 53, 443, 3306, 5000, 8000 — 2s
+05-04-25 23:03:15 — Sequential Port Scanning — 10.0.0.151 — 80, 81, 82, 83 — 1s
+05-04-25 23:17:59 — Multiple Port Scanning — 10.0.0.125 — 22, 53, 443, 3306, 5000, 8000 — 2s
+05-04-25 23:18:03 — Sequential Port Scanning — 10.0.0.126 — 80, 81, 82, 83 — 1s
+05-04-25 23:22:10 — Multiple Port Scanning — 10.0.0.125 — 22, 53, 443, 3306, 5000, 8000 — 2s
+05-04-25 23:22:14 — Sequential Port Scanning — 10.0.0.126 — 80, 81, 82, 83 — 1s
+05-04-25 23:22:20 — OS Fingerprinting — 10.0.0.127 — SYN, FIN, PSH, ACK, RST — 2s
+06-04-25 22:45:21 — Multiple Port Scanning — 10.0.0.110 — 22, 53, 443, 3306, 5000, 8000 — 2s
+06-04-25 22:45:26 — Sequential Port Scanning — 10.0.0.111 — 80, 81, 82, 83 — 1s
+06-04-25 22:45:31 — OS Fingerprinting — 10.0.0.112 — RST, FIN, SYN, PSH, ACK — 2s
+06-04-25 22:58:18 — Multiple Port Scanning — 10.0.0.105 — 22, 53, 443, 3306, 5000, 8000 — 2s
+06-04-25 22:58:22 — Sequential Port Scanning — 10.0.0.106 — 80, 81, 82, 83 — 1s
+06-04-25 22:58:27 — OS Fingerprinting — 10.0.0.107 — PSH, ACK, RST, FIN, SYN — 2s
+06-04-25 23:16:05 — Multiple Port Scanning — 10.0.0.175 — 22, 53, 443, 3306, 5000, 8000 — 2s
+06-04-25 23:16:09 — Sequential Port Scanning — 10.0.0.176 — 80, 81, 82, 83 — 1s
+06-04-25 23:16:15 — OS Fingerprinting — 10.0.0.177 — ACK, SYN, RST, FIN, PSH — 2s
